@@ -1,0 +1,36 @@
+#body {
+    font-family: 'Silkscreen', cursive !important;
+    background-color: #2E0249 !important;
+    color: whitesmoke !important;
+    background-image: url("images/backgrounds.png") !important;
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#header span {
+    font-size: 40px;
+}
+#header .msg {
+    font-size: 15px;
+}
+#header .special-letters {
+    color: #F806CC;
+}
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main .card {
+    background-color: #19d4da21 !important;
+    border: 1px solid #F806CC;
+    padding: 5px;
+}
+.ajax-section .city-temp {
+    font-size: 20px;
+}
+#footer a {
+    text-decoration: none;
+    color: whitesmoke;
+}
